@@ -1,0 +1,12 @@
+{
+  "name": "gas",
+  "packageManager": "yarn@3.1.1",
+  "scripts": {
+    "clasp": "clasp"
+  },
+  "devDependencies": {
+    "@google/clasp": "^2.4.1",
+    "@tsconfig/recommended": "^1.0.1",
+    "@types/google-apps-script": "^1.0.41"
+  }
+}
